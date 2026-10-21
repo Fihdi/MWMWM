@@ -7,4 +7,4 @@ The **FOLD** and the **CV** knob settings control the amount of wavefolding.
 
 **OFFSET** is the second input and is summed to the **IN** signal. Like the **OFFSET** knob, it can be used to offset the **IN** signal.
 
-Fully analog design allows for audio rate modulation. Every input and output is DC biased and thus the module can be used with CV signals as well.
+Fully analog design allows for audio rate modulation. Every input and output jack is DC biased and thus the module can be used to modulate CV signals as well.
