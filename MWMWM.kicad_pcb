@@ -5991,7 +5991,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47k"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "55b63579-f1a7-4d9f-8187-cb3b7abba708")
@@ -6486,7 +6486,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "47k"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "23ca25be-6985-4861-b079-d59ec8f83e0b")
@@ -15331,7 +15331,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm* SSOP*5.3x6.2mm*P0.65mm* MSOP*3x3mm*P0.5mm*")
-		(path "/83f761cc-9dd7-4467-8949-2fe41275dee2")
+		(path "/6009f72c-3e00-4867-b653-43a190c190f6")
 		(sheetname "/")
 		(sheetfile "MWMWM.kicad_sch")
 		(units
@@ -20008,86 +20008,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(gr_line
-		(start 21.807101 55.4)
-		(end 31.1964 66.874999)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "64663d4a-6f90-415a-9cd3-404ccfd00596")
-	)
-	(gr_line
-		(start 24.8 128.3)
-		(end 24.8107 112.9)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "a3e6a83c-c9dd-4317-a583-dfd11304706f")
-	)
-	(gr_line
-		(start 24.8 128.3)
-		(end 31.33215 120.6)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "9538d49c-d328-4698-9b83-225ac425e1c5")
-	)
-	(gr_line
-		(start 24.8107 112.9)
-		(end 21.807101 55.4)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "b7a5b0dc-34da-4731-b720-66192c34c78e")
-	)
-	(gr_line
-		(start 31.1964 44.074999)
-		(end 31.1964 66.874999)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "bc8f8f6b-05db-4e06-9b3f-1f3f207e7903")
-	)
-	(gr_line
-		(start 31.1964 66.874999)
-		(end 31.1964 89.674999)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "a9462559-8eae-48d2-8aae-78876c6e7202")
-	)
-	(gr_line
-		(start 31.1964 89.674999)
-		(end 37.8107 112.9)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "bf3d5fdd-1c13-4b5a-adca-f1c57bb86358")
-	)
-	(gr_line
-		(start 37.8 128.3)
-		(end 37.8107 112.9)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "facc7369-3e48-43b3-ae67-b85a25fad0f7")
 	)
 	(gr_line
 		(start 50.7 23.3)
